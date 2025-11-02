@@ -33,11 +33,13 @@ Essas práticas me ajudaram a entender melhor a integração entre **estrutura, 
 
 ## 🎮 Como jogar
 Acesse: https://jogo-do-numero-secreto-eight-jade.vercel.app/
-1. Digite um número entre **1 e 100** no campo de entrada.  
-2. Clique em **“Chutar”** para enviar seu palpite.  
-3. O jogo vai indicar se o número secreto é **maior ou menor** que o chute.  
-4. Continue tentando até acertar!  
-5. Depois de vencer, clique em **“Novo jogo”** para começar novamente.
+
+1. Aceite a assistente de voz clicando em "Allow"
+2. Digite um número entre **1 e 100** no campo de entrada.  
+3. Clique em **“Chutar”** para enviar seu palpite.  
+4. O jogo vai indicar se o número secreto é **maior ou menor** que o chute.  
+5. Continue tentando até acertar!  
+6. Depois de vencer, clique em **“Novo jogo”** para começar novamente.
 
 ---
 
